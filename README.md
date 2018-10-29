@@ -1,3 +1,1 @@
 # YelpCamp
-# Test
-# YelpCamp
